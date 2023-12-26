@@ -6,6 +6,7 @@
     android:gravity="center"
     tools:context=".MainActivity">
 
+
     <GridLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -13,36 +14,72 @@
 
         <Button
             android:id="@+id/btn1"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:layout_height="80dp"
+            android:layout_width="80dp"
             android:layout_marginEnd="11dp"
             android:onClick="check"/>
         <Button
             android:id="@+id/btn2"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:layout_height="80dp"
+            android:layout_width="80dp"
             android:layout_marginEnd="11dp"
             android:onClick="check"/>
         <Button
             android:id="@+id/btn3"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:layout_height="80dp"
+            android:layout_width="80dp"
             android:onClick="check"/>
         <Button
             android:id="@+id/btn4"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:layout_height="80dp"
+            android:layout_width="80dp"
             android:layout_marginEnd="11dp"
             android:onClick="check"/>
         <Button
             android:id="@+id/btn5"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:layout_height="80dp"
+            android:layout_width="80dp"
             android:layout_marginEnd="11dp"
             android:onClick="check"/>
         <Button
             android:id="@+id/btn6"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:layout_height="80dp"
+            android:layout_width="80dp"
             android:onClick="check"/>
         <Button
             android:id="@+id/btn7"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:layout_height="80dp"
+            android:layout_width="80dp"
             android:layout_marginEnd="11dp"
             android:onClick="check"/>
         <Button
             android:id="@+id/btn8"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:layout_height="80dp"
+            android:layout_width="80dp"
             android:layout_marginEnd="11dp"
             android:onClick="check"/>
         <Button
             android:id="@+id/btn9"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:layout_height="80dp"
+            android:layout_width="80dp"
             android:onClick="check"/>
 
     </GridLayout>
